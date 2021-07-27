@@ -1,1 +1,1 @@
-Social Media application using React JS 
+Social Media application  like Facebook using React JS 
